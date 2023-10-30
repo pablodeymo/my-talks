@@ -1,0 +1,16 @@
+Ejemplos de prompts:
+
+-------------------
+
+Dame ideas para actividades de la materia Microbiología y Parasitología para dictar la clase correspondiente a estos temas:
+Principios de la microbiología aplicados a las normas que rigen los procedimientos que competen al rol profesional para proteger a las personas de enfermedades infecciosas, parasitarias y tóxicas. Microbiología.
+
+Debe contener una introducción teórica y luego una actividad práctica.
+
+-------------------
+
+Dame 5 ideas de situaciones completas que luego puedan desarrollarse en actividades más concretas, a partir de los siguientes contenidos mínimos (o saberes básicos) para la materia Microbiología y Parasitología:
+Principios de la microbiología aplicados a las normas que rigen los procedimientos que competen al rol profesional para proteger a las personas de enfermedades infecciosas, parasitarias y tóxicas. Microbiología.
+
+Debe partir de un aprendizaje desde la práctica del estudiante (desde su experiencia), un aprendizaje autónomo y cooperativo a la vez y basado en proyectos.
+-------------------
